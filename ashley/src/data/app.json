@@ -1,0 +1,108 @@
+{
+    "settings": {
+        "siteName": "Daniel James Designs",
+        "favicon": "/img/favicon.ico",
+        "formspreeURL": "https://formspree.io/f/xovagnky",
+        "mailchimp": {
+            "url": "",
+            "key": ""
+        }
+    },
+    "header": {
+        "logo": {
+            "symbol": "DJ.",
+            "link": "/"
+        },
+        "menu": [
+            {
+                "label": "Homepage",
+                "link": "/",
+                "children": 0
+            },
+            {
+                "label": "Portfolio",
+                "link": "/projects",
+                "children": 0
+            },
+            {
+                "label": "Services",
+                "link": "/services",
+                "children": 0
+            },
+            {
+                "label": "Blog",
+                "link": "/blog",
+                "children": 0
+            },
+            {
+                "label": "Contact",
+                "link": "/contact",
+                "children": 0
+            },
+            {
+                "label": "Other",
+                "link": "/team",
+                "children": [
+                    {
+                        "label": "Team",
+                        "link": "/team"
+                    },
+                    {
+                        "label": "404",
+                        "link": "/404"
+                    }
+                ]
+            }
+        ]
+    },
+    "footer": {
+        "logo": {
+            "text": "Daniel James."
+        },
+        "copy": "© 2024 Daniel James. All Rights Reserved.",
+        "menu": [
+            {
+                "label": "Home",
+                "link": "/"
+            },
+            {
+                "label": "Portfolio",
+                "link": "/projects"
+            },
+            {
+                "label": "Services",
+                "link": "/services"
+            },
+            {
+                "label": "Contact",
+                "link": "/contact"
+            },
+            {
+                "label": "Blog",
+                "link": "/blog"
+            }
+        ]
+    },
+    "social": [
+        {
+            "link": "https://behance.net",
+            "icon": "fab fa-behance",
+            "title": "Behance"
+        },
+        {
+            "link": "https://dribbble.com",
+            "icon": "fab fa-dribbble",
+            "title": "Dribbble"
+        },
+        {
+            "link": "https://twitter.com",
+            "icon": "fab fa-twitter",
+            "title": "Twitter"
+        },
+        {
+            "link": "https://github.com",
+            "icon": "fab fa-github",
+            "title": "Github"
+        }
+    ]
+}

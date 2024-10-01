@@ -1,0 +1,40 @@
+{
+    "title": "Our <br>Founder",
+    "description": "<p>I'm Daniel James, a talented individual passionate about bringing your ideas to life. With a creative and technical background and skill set, I collaborate to produce effective solutions for my clients.</p><p>I am committed to delivering impactful work that not only meets but consistently exceeds expectations, ensuring every project achieves its full potential.</p>",
+    "subtitle": "<span class=\"mil-thin\">I</span> deliver <br><span class=\"mil-thin\">exceptional</span> results.",
+    "button": {
+        "link": "/team",
+        "label": "Read more"
+    },
+    "note": "<span class=\"mil-accent\">*</span> Founder of this agency",
+    "col1_items": [
+        {
+            "image": "/img/faces/1.jpg",
+            "name": "Daniel James",
+            "role": "Founder, Designer, Developer",
+            "social": [
+                {
+                    "icon": "fab fa-behance",
+                    "link": "https://behance.com",
+                    "title": "behance"
+                },
+                {
+                    "icon": "fab fa-dribbble",
+                    "link": "https://dribbble.com",
+                    "title": "dribbble"
+                },
+                {
+                    "icon": "fab fa-twitter",
+                    "link": "https://twitter.com",
+                    "title": "twitter"
+                },
+                {
+                    "icon": "fab fa-github",
+                    "link": "https://github.com",
+                    "title": "github"
+                }
+            ]
+        }
+    ],
+    "col2_items": []
+}

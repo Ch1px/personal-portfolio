@@ -1,0 +1,24 @@
+{
+    "title": "Customer <span class=\"mil-thin\">Voices:</span> <br>Hear What <span class=\"mil-thin\">They Say!</span>",
+    "subtitle": "Customer reviews are a valuable source <br>of information for both businesses and consumers.",
+    "items": [
+        {
+            "name": "Paul Glancy",
+            "image": "/img/customers/1.jpg",
+            "role": "HX Plumbing & Heating",
+            "text": "Working with Daniel as our Web designer was an absolute pleasure. His attention to detail and creative approach brought our vision to life. The user interface he designed exceeded our expectations, and we received positive feedback from our clients. Highly recommended!"
+        },
+        {
+            "name": "Matty Lambert",
+            "image": "/img/customers/2.jpg",
+            "role": "Lambo Sax",
+            "text": "I had the opportunity to collaborate with Daniel, and I must say he is incredibly talented. Within just a couple weeks I was already reciveing leads through my website. Daniel's designs were intuitive, and enhanced the overall user experience. I look forward to working with him again!"
+        },
+        {
+            "name": "Andy Dale",
+            "image": "/img/customers/3.jpg",
+            "role": "KH Watson",
+            "text": "Courtney Davis is an exceptional UI designer. She has a keen eye for aesthetics and understands how to create interfaces. Courtney's designs greatly improved the usability of our application, and we couldn't be happier with the results. Highly skilled and reliable!"
+        }
+    ]
+}
