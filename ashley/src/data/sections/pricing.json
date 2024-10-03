@@ -3,38 +3,38 @@
     "description": "At our agency, we have a unique approach to web design and development. <br/>We believe in creating in terms of user experience, functionality.",
     "items": [
         {
-            "title": "Tailored Designs for<br> Every Budget",
-            "text": "Tomlo commodi, mollitia atque betae esse itaque a, voluptatibus, suscipit beatae officiis omnis.",
+            "title": "Starter<br> Package",
+            "text": "Ideal for startups or small businesses taking their first steps into branding, web, and marketing.",
             "price": {
-                "value": "19",
-                "symbol": "$"
+                "value": "£",
+                "symbol": ""
             },
             "link": "/contact"
         },
         {
-            "title": "Tailored Designs for<br> Every Budget",
-            "text": "Tomlo commodi, mollitia atque betae esse itaque a, voluptatibus, suscipit beatae officiis omnis.",
+            "title": "Growth<br> Package",
+            "text": "Perfect for growing businesses that need to elevate their brand, improve their digital presence, and expand their marketing reach.",
             "price": {
-                "value": "29",
-                "symbol": "$"
+                "value": "££",
+                "symbol": ""
             },
             "link": "/contact"
         },
         {
-            "title": "Unleashing the Beauty of Space <br> with Unique Designs",
-            "text": "Tomlo commodi, mollitia atque betae esse itaque a, voluptatibus, suscipit beatae officiis omnis.",
+            "title": "Professional<br> Package",
+            "text": "Great for businesses looking to achieve a more refined and professional image, with a strong focus on enhancing user experience and driving growth.",
             "price": {
-                "value": "49",
-                "symbol": "$"
+                "value": "£££",
+                "symbol": ""
             },
             "link": "/contact"
         },
         {
-            "title": "Exquisite Design Concepts <br> for Discerning Clients",
-            "text": "Tomlo commodi, mollitia atque betae esse itaque a, voluptatibus, suscipit beatae officiis omnis.",
+            "title": " Premium<br> Package",
+            "text": "Best for established businesses or enterprises seeking a full-scale solution with ongoing support and advanced customization.",
             "price": {
-                "value": "199",
-                "symbol": "$"
+                "value": "££££",
+                "symbol": ""
             },
             "link": "/contact"
         }
