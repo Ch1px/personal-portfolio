@@ -12,23 +12,24 @@ layout: "two"
 introTitle: "KH Watson <span class=\"mil-thin\">bodywork specialists</span>"
 details:
     - label: "Client:"
-      value: "Envato"
+      value: "KH Watson"
 
     - label: "Date:"
-      value: "April 2022"
+      value: "March 2024"
 
     - label: "Author"
-      value: "Paul Trueman"
+      value: "Daniel Glancy"
 
 description:
     enabled: 1
-    title: Simplicity, elegance, innovation!
+    title: Precision. Expertise. Restoration.!
     content: "
-      <p>A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
-      <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
+      <p>KH Watson specializes in car body repairs, including paintwork, dent removal, and alloy wheel refurbishment. Serving Harrogate and North Yorkshire since 1970, they are experts in accident repair and vehicle restoration, offering high-quality services and working closely with insurance companies.</p>
+      <p>Their skilled technicians use advanced tools to ensure excellent results, focusing on customer satisfaction and value for money.</p>
     "
+    link: "https://www.khwatson.co.uk/"
 
-demoLink: "https://www.behance.net/gallery/117994149/Home-Security-Camera?tracking_source=curated_galleries_product-design"
+
 
 gallery: 
     enabled: 1

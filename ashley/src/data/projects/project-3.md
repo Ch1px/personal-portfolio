@@ -13,21 +13,23 @@ introTitle: JD Body <span class="mil-thin">Repairs</span>
 
 details:
     - label: "Client:"
-      value: "Envato"
+      value: "JD Body Repairs"
 
     - label: "Date:"
-      value: "April 2022"
+      value: "October 2023"
 
     - label: "Author"
-      value: "Paul Trueman"
+      value: "Daniel Glancy"
 
 description:
     enabled: 1
-    title: Simplicity, elegance, innovation!
+    title: Restore. Refine. Revive!
     content: "
-      <p>A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
-      <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
+      <p>JD Body Repairs, located in Harrogate, specializes in car body repairs, including dent and scratch repair, vehicle resprays, alloy wheel refurbishment, and headlight restoration. They offer high-quality services for both minor and major damages, with a focus on restoring vehicles to like-new condition.</p>
+      <p>The team is known for skilled craftsmanship and competitive pricing, serving both private and commercial clients across North Yorkshire.</p>
     "
+    link: "https://www.jd-body-repairs.co.uk/"
+    
 
 gallery: 
     enabled: 1

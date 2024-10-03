@@ -13,13 +13,13 @@ introTitle: Leo <span class="mil-thin">Holder</span>
 fullImage: /img/works/5/1.jpg
 details:
     - label: "Client:"
-      value: "Envato"
+      value: "Leo Holder"
 
     - label: "Date:"
-      value: "March 2022"
+      value: "December 2024"
 
     - label: "Author"
-      value: "Paul Trueman"
+      value: "Daniel Glancy"
 
 gallery: 
     enabled: 1
@@ -41,11 +41,12 @@ gallery:
 
 description:
     enabled: 1
-    title: Simplicity, elegance, innovation!
+    title: Innovative. Cinematic. Musical!
     content: "
-        <p>A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
-        <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
+        <p>Leo Holder is a London-based composer, orchestrator, and arranger specializing in music for film, video games, and media. A graduate of the Trinity Laban Conservatoire, he blends his passion for music with technical expertise, creating dynamic, intricate compositions.</p>
+        <p>Leo offers services such as orchestral programming, music preparation, and custom arrangements, and collaborates with filmmakers to produce immersive audio-visual experiences.</p>
     "
+    link: "https://www.leoholder.com/"
 
 gallery2: 
     enabled: 1

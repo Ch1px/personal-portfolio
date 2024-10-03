@@ -5,6 +5,7 @@ image: /img/works/1.jpg
 category: TECHNOLOGY
 date: August 24 2024
 
+
 #params
 layout: "one"
 
@@ -13,21 +14,22 @@ introTitle: "HX Plumbing & Heating <span class=\"mil-thin\">Ltd</span>"
 fullImage: /img/works/1/1.jpg
 details:
     - label: "Client:"
-      value: "Envato"
+      value: "HX Plumbing & Heating Ltd"
 
     - label: "Date:"
-      value: "April 2022"
+      value: "August 2024"
 
     - label: "Author"
-      value: "Paul Trueman"
+      value: "Daniel Glancy"
 
 description:
     enabled: 1
-    title: "Simplicity, elegance, innovation!"
+    title: "Reliable. Efficient. Trusted!"
     content: "
-      <p>A home surveillance camera that pays great attention to security and user privacy, featuring two modes to provide security while protecting personal privacy.The camera has an open and closed mode, we define the product to have clear two sides, expressing two working states and emotions.</p>
-      <p>Presents a simple and quiet state when not in use, delivering a gentle and security.At the same time, the camera can adapt to a variety of environments, providing elegant ways of wall hanging and standing installation.</p>
+      <p>HX Plumbing & Heating offers comprehensive plumbing and heating services across West Yorkshire, including boiler installations, repairs, central heating maintenance, and general plumbing. They specialize in kitchens, bathrooms, powerflushing, and even solar panel installations. </p>
+      <p>With over 25 years of experience, they are Gas Safe registered, ensuring high-quality, safe service. They also focus on prompt response times and customer satisfaction for both domestic repairs and new installations.</p>
     "
+    link: https://www.hxplumbingheating.co.uk/
 
 gallery: 
     enabled: 1

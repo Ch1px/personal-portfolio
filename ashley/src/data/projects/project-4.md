@@ -12,13 +12,13 @@ layout: "four"
 introTitle: Lambo <span class="mil-thin">Sax</span>
 details:
     - label: "Client:"
-      value: "Envato"
+      value: "Lambo Sax"
 
     - label: "Date:"
-      value: "May 2022"
+      value: "November 2023"
 
     - label: "Author"
-      value: "Paul Trueman"
+      value: "Daniel Glancy"
 
 gallery: 
     enabled: 1
@@ -43,10 +43,11 @@ gallery:
 
 description:
     enabled: 1
-    title: Lava Photos taken at Hawaii <br>Volcanoes National Park.
+    title: Atmosphere. Elegance. Groove!
     content: "
-      <p>This collection of Hawaii photography is focused on the immense power of lava at the Volcanos National Park on the Big Island of Hawaii. One of the most truly mystical scenes I have ever had the pleasure of capturing. For this collection I wanted to showcase this beauty in my own artistic way, through fine art landscape photography. However still keep these scenes natural and true to what I witnessed on my journey. For that reason, these images have been only lightly processed. All of these images are single exposures, unless listed otherwise in the caption below the photo.</p>
+      <p>Lambo Sax, based in London, offers dynamic saxophone performances for weddings, events, and private functions. Specializing in jazz and DJ-sax sets, he creates memorable musical atmospheres. Lambo Sax also provides personalized saxophone lessons for all skill levels and offers live performances with quartets or quintets for a relaxed, elegant ambiance. With professional service and glowing reviews, he ensures a high-quality experience tailored to each event.</p>
     "
+    link: "https://www.lambosax.com/"
 
 gallery2: 
     enabled: 1
